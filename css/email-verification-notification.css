@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.fluentmail-alert-28-regular-icon1 {
+  position: absolute;
+  top: 316px;
+  left: 687px;
+  width: 66px;
+  height: 66px;
+  overflow: hidden;
+}
+.email-verification-notificatio-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--daabo-black);
+  width: 1440px;
+  height: 75px;
+}
+.icon26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.daabo10,
+.parent8 {
+  position: absolute;
+  top: 2px;
+  left: 35px;
+}
+.parent8 {
+  top: 21px;
+  left: 180px;
+  width: 109px;
+  height: 33px;
+  font-size: var(--font-size-8xl);
+  font-family: var(--font-merriweather);
+}
+.confirm-your-email {
+  position: absolute;
+  top: 429px;
+  left: 470px;
+  font-weight: 600;
+  color: var(--daabo-text-black);
+}
+.a-verification-email {
+  position: absolute;
+  top: 480px;
+  left: 415px;
+  color: var(--sub-text-grey);
+}
+.group-child128 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--daabo-purple);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.21);
+  width: 273px;
+  height: 45px;
+}
+.resend-verification-email {
+  position: absolute;
+  top: 11px;
+  left: 40px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.rectangle-parent74 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 662px;
+  left: 584px;
+  width: 273px;
+  height: 45px;
+}
+.email-verification-notificatio {
+  position: relative;
+  background-color: var(--daabo-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--daabo-white);
+  font-family: var(--font-poppins);
+}

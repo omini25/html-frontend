@@ -1,0 +1,323 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.create-account-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--daabo-black);
+  width: 1440px;
+  height: 75px;
+}
+.create-account1,
+.lets-get-to {
+  position: absolute;
+  font-size: var(--font-size-5xl);
+}
+.create-account1 {
+  top: 250px;
+  left: 637px;
+  font-weight: 600;
+  color: var(--daabo-text-black);
+}
+.lets-get-to {
+  top: 282px;
+  left: 585px;
+  color: var(--sub-text-grey);
+}
+.create-account-inner,
+.create-account-item {
+  border: 1.8px solid var(--color-gray-500);
+  background-color: var(--default-white);
+  position: absolute;
+  top: 355px;
+  left: 524px;
+  border-radius: var(--br-4xs);
+  box-sizing: border-box;
+  width: 396px;
+  height: 50px;
+}
+.create-account-inner {
+  top: 442px;
+}
+.full-name {
+  position: absolute;
+  top: 371px;
+  left: 545px;
+}
+.email-address,
+.group-child129 {
+  position: absolute;
+  top: 458px;
+  left: 545px;
+}
+.group-child129 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--daabo-purple);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.21);
+  width: 273px;
+  height: 45px;
+}
+.create-account2 {
+  position: absolute;
+  top: 11px;
+  left: 69px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.create-account-inner1,
+.rectangle-parent75 {
+  position: absolute;
+  width: 273px;
+  height: 45px;
+  cursor: pointer;
+}
+.rectangle-parent75 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 0;
+}
+.create-account-inner1 {
+  top: 942px;
+  left: 590px;
+}
+.or,
+.sign-up-with {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  font-weight: 500;
+}
+.sign-up-with {
+  top: 23px;
+  left: 0;
+}
+.or-parent {
+  position: absolute;
+  top: 1006px;
+  left: 678px;
+  width: 93px;
+  height: 46px;
+  font-size: var(--font-size-xl);
+  color: var(--sub-text-grey);
+}
+.group-child130 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--default-white);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  width: 153px;
+  height: 50px;
+}
+.flat-color-iconsgoogle {
+  position: absolute;
+  top: 11px;
+  left: 29px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.google {
+  position: absolute;
+  top: 12px;
+  left: 66px;
+  font-weight: 600;
+}
+.group-child131,
+.rectangle-parent76 {
+  position: absolute;
+  width: 153px;
+  height: 50px;
+}
+.rectangle-parent76 {
+  top: 1070px;
+  left: 765px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-1200);
+}
+.group-child131 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gray-1100);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+}
+.brandicofacebook-rect-icon {
+  position: absolute;
+  top: 11px;
+  left: 19px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.facebook16 {
+  position: absolute;
+  top: 12px;
+  left: 56px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.rectangle-parent77 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1070px;
+  left: 522px;
+  width: 153px;
+  height: 50px;
+}
+.fluentperson-circle-20-regula-icon {
+  position: absolute;
+  top: 165px;
+  left: 693px;
+  width: 54px;
+  height: 54px;
+  overflow: hidden;
+}
+.mask-group-icon19 {
+  position: absolute;
+  top: 14px;
+  left: 170px;
+  width: 128px;
+  height: 48px;
+  object-fit: cover;
+}
+.create-account-child1,
+.create-account-child2 {
+  border: 1.8px solid var(--color-gray-500);
+  background-color: var(--default-white);
+  position: absolute;
+  top: 529px;
+  left: 522px;
+  border-radius: var(--br-4xs);
+  box-sizing: border-box;
+  width: 396px;
+  height: 50px;
+}
+.create-account-child2 {
+  top: 703px;
+  left: 524px;
+}
+.create-password,
+.phone-number {
+  position: absolute;
+  top: 545px;
+  left: 536px;
+}
+.create-password {
+  top: 719px;
+  left: 538px;
+}
+.feathereye-off-icon {
+  position: absolute;
+  top: 721px;
+  left: 882px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.create-account-child3 {
+  border: 1.8px solid var(--color-gray-500);
+  background-color: var(--default-white);
+  position: absolute;
+  top: 616px;
+  left: 522px;
+  border-radius: var(--br-4xs);
+  box-sizing: border-box;
+  width: 396px;
+  height: 50px;
+}
+.account-type {
+  position: absolute;
+  top: 632px;
+  left: 536px;
+}
+.create-account-child4 {
+  border: 1.8px solid var(--color-gray-500);
+  background-color: var(--default-white);
+  position: absolute;
+  top: 790px;
+  left: 523px;
+  border-radius: var(--br-4xs);
+  box-sizing: border-box;
+  width: 396px;
+  height: 50px;
+}
+.confirm-password {
+  position: absolute;
+  top: 806px;
+  left: 537px;
+}
+.feathereye-off-icon1 {
+  position: absolute;
+  top: 808px;
+  left: 881px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.by-clicking-create {
+  line-height: 16px;
+}
+.span139 {
+  font-size: var(--label-medium-label-size);
+  line-height: 20px;
+}
+.span139,
+.span140 {
+  color: var(--color-blue-400);
+}
+.terms {
+  line-height: 16px;
+  color: var(--daabo-purple);
+}
+.by-clicking-create-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.by-clicking-create-container {
+  text-decoration: none;
+  position: absolute;
+  width: calc(100% - 1141px);
+  top: calc(50% + 297.5px);
+  left: 571px;
+  font-family: var(--heading-h5);
+  text-align: center;
+  display: flex;
+  align-items: flex-end;
+  height: 21px;
+  color: var(--daabo-text-black);
+}
+.create-account {
+  position: relative;
+  background-color: var(--daabo-white);
+  width: 100%;
+  height: 1191px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--label-small-label-size);
+  color: var(--color-gray-700);
+  font-family: var(--font-poppins);
+}

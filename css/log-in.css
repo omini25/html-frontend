@@ -1,0 +1,249 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.log-in-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--daabo-black);
+  width: 1440px;
+  height: 75px;
+}
+.amazing {
+  position: absolute;
+  top: 243px;
+  left: 665px;
+}
+.enter-your-account {
+  position: absolute;
+  top: 282px;
+  left: 538px;
+  font-weight: 500;
+}
+.log-in-inner,
+.log-in-item {
+  border: 1.8px solid var(--color-gray-500);
+  background-color: var(--default-white);
+  position: absolute;
+  top: 355px;
+  left: 524px;
+  border-radius: var(--br-4xs);
+  box-sizing: border-box;
+  width: 396px;
+  height: 50px;
+}
+.log-in-inner {
+  top: 442px;
+}
+.feathereye-off-icon4,
+.system-uiconsmail1 {
+  position: absolute;
+  top: 460px;
+  left: 884px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.system-uiconsmail1 {
+  top: 370px;
+  left: 880px;
+  width: 21px;
+  height: 21px;
+}
+.email-address2,
+.password {
+  position: absolute;
+  top: 371px;
+  left: 538px;
+  font-size: var(--label-small-label-size);
+  color: var(--color-gray-700);
+}
+.password {
+  top: 458px;
+}
+.group-child137 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--daabo-purple);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.21);
+  width: 174px;
+  height: 45px;
+}
+.log-in10 {
+  position: absolute;
+  top: 11px;
+  left: 62px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.rectangle-parent83 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 642px;
+  left: 633px;
+  width: 174px;
+  height: 45px;
+}
+.group-icon3,
+.log-in-child1,
+.rectangle-parent83 {
+  position: absolute;
+  cursor: pointer;
+}
+.group-icon3 {
+  height: 1.59%;
+  width: 1.15%;
+  top: 13.09%;
+  right: 12.53%;
+  bottom: 85.33%;
+  left: 86.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.log-in-child1 {
+  top: 130.95px;
+  left: 192.5px;
+  width: 12.55px;
+  height: 22.09px;
+}
+.forgot-password {
+  position: absolute;
+  top: 512px;
+  left: 785px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--sub-text-grey);
+}
+.log-in-with,
+.or1 {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  font-weight: 500;
+}
+.log-in-with {
+  top: 23px;
+  left: 0;
+}
+.or-group {
+  position: absolute;
+  top: 712px;
+  left: 680px;
+  width: 80px;
+  height: 46px;
+  font-size: var(--font-size-xl);
+  color: var(--sub-text-grey);
+}
+.group-child138 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--default-white);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  width: 153px;
+  height: 50px;
+}
+.flat-color-iconsgoogle1 {
+  position: absolute;
+  top: 11px;
+  left: 29px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.google1 {
+  position: absolute;
+  top: 12px;
+  left: 66px;
+  font-weight: 600;
+}
+.group-child139,
+.rectangle-parent84 {
+  position: absolute;
+  width: 153px;
+  height: 50px;
+}
+.rectangle-parent84 {
+  top: 776px;
+  left: 767px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-1200);
+}
+.group-child139 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gray-1100);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+}
+.brandicofacebook-rect-icon1 {
+  position: absolute;
+  top: 11px;
+  left: 19px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.facebook17 {
+  position: absolute;
+  top: 12px;
+  left: 56px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.rectangle-parent85 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 776px;
+  left: 524px;
+  width: 153px;
+  height: 50px;
+}
+.log-in-child2 {
+  position: absolute;
+  top: 134px;
+  left: 682px;
+  width: 76px;
+  height: 76px;
+}
+.mask-group-icon25 {
+  position: absolute;
+  top: 14px;
+  left: 170px;
+  width: 128px;
+  height: 48px;
+  object-fit: cover;
+}
+.log-in9 {
+  position: relative;
+  background-color: var(--daabo-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--daabo-text-black);
+  font-family: var(--font-poppins);
+}
